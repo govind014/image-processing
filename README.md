@@ -1,3 +1,3 @@
 # image-processing
 
-By Madhav
+By Madhav Manoj
